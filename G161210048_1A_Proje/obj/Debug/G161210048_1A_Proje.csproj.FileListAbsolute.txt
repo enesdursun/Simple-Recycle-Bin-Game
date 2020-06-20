@@ -1,0 +1,10 @@
+C:\Users\uzman\Desktop\G161210048_1A_Proje\G161210048_1A_Proje\obj\Debug\G161210048_1A_Proje.csprojAssemblyReference.cache
+C:\Users\uzman\Desktop\G161210048_1A_Proje\G161210048_1A_Proje\obj\Debug\G161210048_1A_Proje.Properties.Resources.resources
+C:\Users\uzman\Desktop\G161210048_1A_Proje\G161210048_1A_Proje\obj\Debug\G161210048_1A_Proje.csproj.GenerateResource.cache
+C:\Users\uzman\Desktop\G161210048_1A_Proje\G161210048_1A_Proje\obj\Debug\G161210048_1A_Proje.csproj.CoreCompileInputs.cache
+C:\Users\uzman\Desktop\G161210048_1A_Proje\G161210048_1A_Proje\obj\Debug\G161210048_1A_Proje.Form1.resources
+C:\Users\uzman\Desktop\G161210048_1A_Proje\G161210048_1A_Proje\bin\Debug\G161210048_1A_Proje.exe.config
+C:\Users\uzman\Desktop\G161210048_1A_Proje\G161210048_1A_Proje\bin\Debug\G161210048_1A_Proje.exe
+C:\Users\uzman\Desktop\G161210048_1A_Proje\G161210048_1A_Proje\bin\Debug\G161210048_1A_Proje.pdb
+C:\Users\uzman\Desktop\G161210048_1A_Proje\G161210048_1A_Proje\obj\Debug\G161210048_1A_Proje.exe
+C:\Users\uzman\Desktop\G161210048_1A_Proje\G161210048_1A_Proje\obj\Debug\G161210048_1A_Proje.pdb
