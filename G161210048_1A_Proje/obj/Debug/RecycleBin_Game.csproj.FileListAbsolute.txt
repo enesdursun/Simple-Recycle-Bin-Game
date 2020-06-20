@@ -8,3 +8,13 @@ D:\DERS\DERS\2020 bahar\2020 bahar\NDP\NDP-ÖDEV\G161210048_1A_Proje\G161210048_
 D:\DERS\DERS\2020 bahar\2020 bahar\NDP\NDP-ÖDEV\G161210048_1A_Proje\G161210048_1A_Proje\G161210048_1A_Proje\obj\Debug\RecycleBin_Game.csproj.CoreCompileInputs.cache
 D:\DERS\DERS\2020 bahar\2020 bahar\NDP\NDP-ÖDEV\G161210048_1A_Proje\G161210048_1A_Proje\G161210048_1A_Proje\obj\Debug\RecycleBin_Game.exe
 D:\DERS\DERS\2020 bahar\2020 bahar\NDP\NDP-ÖDEV\G161210048_1A_Proje\G161210048_1A_Proje\G161210048_1A_Proje\obj\Debug\RecycleBin_Game.pdb
+D:\Github Repository\Simple-Recycle-Bin-Game\G161210048_1A_Proje\bin\Debug\RecycleBin_Game.exe.config
+D:\Github Repository\Simple-Recycle-Bin-Game\G161210048_1A_Proje\bin\Debug\RecycleBin_Game.exe
+D:\Github Repository\Simple-Recycle-Bin-Game\G161210048_1A_Proje\bin\Debug\RecycleBin_Game.pdb
+D:\Github Repository\Simple-Recycle-Bin-Game\G161210048_1A_Proje\obj\Debug\RecycleBin_Game.csprojAssemblyReference.cache
+D:\Github Repository\Simple-Recycle-Bin-Game\G161210048_1A_Proje\obj\Debug\RecycleBin_Game.Form1.resources
+D:\Github Repository\Simple-Recycle-Bin-Game\G161210048_1A_Proje\obj\Debug\RecycleBin_Game.Properties.Resources.resources
+D:\Github Repository\Simple-Recycle-Bin-Game\G161210048_1A_Proje\obj\Debug\RecycleBin_Game.csproj.GenerateResource.cache
+D:\Github Repository\Simple-Recycle-Bin-Game\G161210048_1A_Proje\obj\Debug\RecycleBin_Game.csproj.CoreCompileInputs.cache
+D:\Github Repository\Simple-Recycle-Bin-Game\G161210048_1A_Proje\obj\Debug\RecycleBin_Game.exe
+D:\Github Repository\Simple-Recycle-Bin-Game\G161210048_1A_Proje\obj\Debug\RecycleBin_Game.pdb
